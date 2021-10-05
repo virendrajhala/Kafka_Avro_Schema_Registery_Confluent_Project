@@ -1,0 +1,4 @@
+com/fretron/model/User.java
+ com.fretron.model.User
+ com.fretron.model.User$1
+ com.fretron.model.User$Builder
